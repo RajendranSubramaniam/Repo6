@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12500" started-at="2018-02-18T17:40:27Z" finished-at="2018-02-18T17:40:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12500" started-at="2018-02-18T17:40:27Z" finished-at="2018-02-18T17:40:40Z">
+      <class name="myMavenProject.JenkinsTestGoogleLaunch">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:myMavenProject.JenkinsTestGoogleLaunch@675d3402]" name="verifyTitle" duration-ms="12483" started-at="2018-02-18T23:10:27Z" finished-at="2018-02-18T23:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- myMavenProject.JenkinsTestGoogleLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
